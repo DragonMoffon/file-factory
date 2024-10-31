@@ -1,0 +1,10 @@
+.libs/
+.venv/
+venv/
+libs/
+
+.vscode/
+.idea/
+
+temp.py
+temp/
